@@ -32,7 +32,7 @@ export default function Page() {
         </h2>
 
         <p className="mt-4 leading-relaxed text-white/90">
-          Hope you have great insights and knowlege from PrepInterview.Prep Smart 
+          Hope you have great insights and knowlege from PrepInterview.
         </p>
       </div>
     </section>
