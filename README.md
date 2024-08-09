@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-Live Link:https://prep-interview.vercel.app/
+Live Link: https://prep-interview.vercel.app/
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
